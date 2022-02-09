@@ -1,0 +1,7 @@
+telepot
+MySQLdb
+banco_de_dados
+telepot
+telepot.loop
+gtts
+speech_recognition
